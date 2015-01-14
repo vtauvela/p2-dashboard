@@ -1,5 +1,12 @@
 /* Profile */
 
 .profile {
-	background: orange;
+	background: white;
+}
+
+/* Balance */
+
+.balance h1 {
+	color: orange;
+	font-size: 3em;
 }
