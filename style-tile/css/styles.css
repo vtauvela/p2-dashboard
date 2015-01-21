@@ -1,6 +1,7 @@
 /* Set Your Own Margin & Padding */
 h2, h3, p {
 	margin: 0;
+	font-family: 'Raleway';
 }
 
 /* Layout for Style Tile*/
@@ -26,15 +27,15 @@ section {
 
 /* Style Tile for Bryn McAllister */
 .color-1  {
-	background: orange;
+	background: #2D3752;
 }
 
 .color-2 {
-	background: green;
+	background: #70C3B4;
 }
 
 .color-3 {
-	background: white;
+	background: #B3E1D9;
 }
 
 /* Show Grid */
