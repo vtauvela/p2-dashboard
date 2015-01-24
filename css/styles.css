@@ -10,3 +10,71 @@
 	color: orange;
 	font-size: 3em;
 }
+
+/* Set Your Own Margin & Padding */
+h1 {
+	margin: 0;
+	font-family: 'Oswald';
+	color: #2D3752;
+	font-size: 48px;
+}
+
+h2 {
+	margin: 0;
+	font-family: 'Playfair Display SC';
+	font-style: italic;
+	color: #70C3B4;
+	font-size: 36px;
+}
+
+h3 {
+	margin: 0;
+	font-family: 'Oswald';
+	color: #B3E1D9;
+	font-size: 24px;
+}
+
+p {
+	font-family: 'Roboto';
+	font-size: 14px;
+	color: #555;
+}
+
+/* Layout for Style Tile*/
+section {
+	margin: 20px 0;
+}
+
+.color-1,
+.color-2,
+.color-3,
+.pattern-1,
+.pattern-2,
+.pattern-3, 
+.imagery-1,
+.imagery-2,
+.imagery-3 {
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+
+/* Style Tile for Bryn McAllister */
+.color-1  {
+	background: #2D3752;
+}
+
+.color-2 {
+	background: #70C3B4;
+}
+
+.color-3 {
+	background: #B3E1D9;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
