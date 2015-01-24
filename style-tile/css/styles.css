@@ -61,6 +61,31 @@ section {
 	background: #B3E1D9;
 }
 
+.imagery-1 {
+	background: url("../img/imagery1.png");
+}
+
+.imagery-2 {
+	background: url("../img/imagery2.png");
+}
+
+.imagery-3 {
+	background: url("../img/imagery3.png");
+}
+
+.pattern-1 {
+	background: url("../img/corrugation.png");
+}
+
+.pattern-2 {
+	background: url("../img/lightpaperfibers.png");
+}
+
+.pattern-3 {
+	background: url("../img/subtle_dots.png");
+}
+
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
